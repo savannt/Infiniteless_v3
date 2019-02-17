@@ -1,0 +1,7 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(25) : error C1038: declaration of "d" conflicts with previous declaration at 0(23)
+0(23) : error C1004: in and out can't be used on local variable "d"
+0(25) : error C7011: implicit cast from "float" to "vec3"
+0(31) : error C7623: implicit narrowing of type from "vec3" to "float"
+0(34) : error C1020: invalid operands to ">="
+]

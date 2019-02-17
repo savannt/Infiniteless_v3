@@ -1,0 +1,3 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(241) : error C1067: too little data in type constructor
+]

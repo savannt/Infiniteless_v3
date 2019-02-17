@@ -1,0 +1,4 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(74) : error C1038: declaration of "d" conflicts with previous declaration at 0(73)
+0(74) : error C1038: declaration of "t" conflicts with previous declaration at 0(73)
+]

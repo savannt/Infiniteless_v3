@@ -1,0 +1,13 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(91) : error C1008: undefined variable "Iterations"
+0(92) : error C1008: undefined variable "z"
+0(92) : error C1008: undefined variable "z"
+0(93) : error C1008: undefined variable "z"
+0(93) : error C1008: undefined variable "z"
+0(93) : error C1008: undefined variable "z"
+0(93) : error C1008: undefined variable "z"
+0(94) : error C1008: undefined variable "z"
+0(94) : error C1008: undefined variable "z"
+0(94) : error C1008: undefined variable "z"
+0(94) : error C1008: undefined variable "z"
+0(95) ]

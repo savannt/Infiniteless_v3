@@ -8,5 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/LWJGL 3"/>
 	<classpathentry kind="lib" path="C:/Users/thesa/Desktop/LWJGL/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/thesa/Desktop/LWJGL/lib/joml-1.9.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

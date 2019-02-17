@@ -1,0 +1,14 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(59) : error C1101: ambiguous overloaded function reference "mul(vec3, mat4)"
+    (0) : mat4x1 mul(mat4x3, mat3x1)
+    (0) : mat4x1 mul(mat4x2, mat2x1)
+    (0) : mat4x3 mul(mat4x1, mat1x3)
+    (0) : mat4x2 mul(mat4x1, mat1x2)
+    (0) : mat4x1 mul(mat4x1, mat1)
+    (0) : mat3x1 mul(mat3, mat3x1)
+    (0) : mat3x1 mul(mat3x2, mat2x1)
+    (0) : mat3 mul(mat3x1, mat1x3)
+    (0) : mat3x2 mul(mat3x1, mat1x2)
+    (0) : mat3x1 mul(mat3x1, mat1)
+    (0) : mat2x1 mul(mat2x3, mat3x1)
+    (0) : mat2x1 mul(]

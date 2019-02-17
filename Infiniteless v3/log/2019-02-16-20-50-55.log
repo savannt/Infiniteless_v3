@@ -1,0 +1,12 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(68) : error C1008: undefined variable "rotateX"
+0(69) : error C1008: undefined variable "rotateY"
+0(70) : error C1008: undefined variable "rotateZ"
+0(76) : error C1008: undefined variable "Iterations"
+0(77) : error C1008: undefined variable "z"
+0(77) : error C1008: undefined variable "z"
+0(78) : error C1008: undefined variable "z"
+0(78) : error C1008: undefined variable "z"
+0(78) : error C1008: undefined variable "z"
+0(78) : error C1008: undefined variable "z"
+0(79) : error C1008: undefined v]

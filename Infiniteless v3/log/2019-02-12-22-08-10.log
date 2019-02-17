@@ -1,0 +1,6 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(27) : warning C7022: unrecognized profile specifier "new"
+0(27) : error C0000: syntax error, unexpected ';', expecting ')' at token ";"
+0(28) : error C1016: expression type incompatible with function return type
+0(25) : error C1108: function "scene" has no statements
+]

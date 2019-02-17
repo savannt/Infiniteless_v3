@@ -1,0 +1,5 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(67) : error C1008: undefined variable "v"
+0(104) : error C1008: undefined variable "dir"
+0(110) : error C1008: undefined variable "phongIlluminiation"
+]

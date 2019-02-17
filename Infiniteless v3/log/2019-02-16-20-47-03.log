@@ -1,0 +1,13 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(74) : error C1008: undefined variable "va"
+0(74) : error C1008: undefined variable "va"
+0(74) : error C1008: undefined variable "va"
+0(75) : error C1008: undefined variable "vb"
+0(75) : error C1008: undefined variable "vb"
+0(75) : error C1008: undefined variable "vb"
+0(76) : error C1008: undefined variable "vc"
+0(76) : error C1008: undefined variable "vc"
+0(76) : error C1008: undefined variable "vc"
+0(77) : error C1008: undefined variable "vd"
+0(77) : error C1008: undefined variable "vd"
+0(77]

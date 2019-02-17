@@ -1,0 +1,4 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(105) : error C1105: cannot call a non-function
+0(105) : error C1105: cannot call a non-function
+]

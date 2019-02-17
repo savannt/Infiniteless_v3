@@ -1,0 +1,9 @@
+grammar me.savant.glsl.GLSLModel with org.eclipse.xtext.common.Terminals
+
+generate gLSLModel "http://www.savant.me/glsl/GLSLModel"
+
+Model:
+	greetings+=Greeting*;
+	
+Greeting:
+	'Hello' name=ID '!';

@@ -1,0 +1,5 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(15) : error C1008: undefined variable "rayDir"
+0(17) : error C1008: undefined variable "shortestDistance"
+0(44) : error C1008: undefined variable "eye"
+]

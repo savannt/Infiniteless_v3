@@ -1,0 +1,5 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(237) : error C1103: too few parameters in function call
+0(238) : error C0000: syntax error, unexpected '}', expecting ',' or ';' at token "}"
+0(232) : error C1110: function "ssao" has no return statement
+]

@@ -1,0 +1,4 @@
+[Infiniteless_v3] Starting...
+[~~FATAL~~] [ShaderProg:23] Failed to compile shader [shader/oct.frag] due to [0(78) : error C0000: syntax error, unexpected ';', expecting ')' at token ";"
+0(61) : error C1110: function "scene" has no return statement
+]
